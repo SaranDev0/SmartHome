@@ -2,7 +2,7 @@
 #include <ESP8266WebServer.h>
 
 
-const char* ssid = "SBH-5,6,7";
+const char* ssid = "SBH-5,6,7";//add your wifi ssid and pass
 const char* password = "123456789";
 
 const int relayPin = D5;
